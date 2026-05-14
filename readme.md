@@ -1,4 +1,5 @@
-This is Linux and Git commands practice project
-lets start and become pro
-adding new line
+My DevOps Practice Project
+Learning Linux and Git
+Git is tracking this project
 Header changes from master branch
+Header changes from feature branch
